@@ -1,0 +1,6 @@
+certs
+build
+build.sh
+flash.sh
+myboard.overlay
+myprj.conf
